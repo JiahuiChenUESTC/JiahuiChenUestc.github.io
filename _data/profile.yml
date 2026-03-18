@@ -36,12 +36,22 @@ portrait_url: /assets/images/photos/myphoto.jpg
 
 education:
 - name: University of Electronic Science and Technology of China
-  # logo: /assets/images/badges/uestc.png
+  logo: /assets/images/badges/uestc.png
   position: >-
-    TODO_department_or_school <br/>
-    Ph.D.
-  date: "TODO_PhD_dates"
-
+    School of Information and Communication Engineering <br/>
+    Ph.D. Student
+  date: Sep. 2019 - Jun. 2023
+- name: North China Electric Power University
+  logo: /assets/images/badges/uestc.png
+  position: >-
+    School of Information and Communication Engineering <br/>
+    Ph.D. Student
+  date: Sep. 2019 - Jun. 2023
+  logo: /assets/images/badges/uestc.png
+  position: >-
+    School of Information and Communication Engineering <br/>
+    Ph.D. Student
+  date: Sep. 2019 - Jun. 2023
 # experience:
 # - name: University of Electronic Science and Technology of China
 #   # logo: /assets/images/badges/uestc.png
