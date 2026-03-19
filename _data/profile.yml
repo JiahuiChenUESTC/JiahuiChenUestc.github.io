@@ -51,11 +51,15 @@ education:
 experience:
 - name: University of Electronic Science and Technology of China
   logo: /assets/images/badges/uestc.png
-  position: Postdoctoral
+  position:  >-
+    School of Electrical and Electronic Engineering <br/>
+    Postdoctoral
   date: "Jul. 2023 - Jan. 2026"
 - name: University of Electronic Science and Technology of China
   logo: /assets/images/badges/uestc.png
-  position: Associate Professor
+  position:  >-
+    School of Electrical and Electronic Engineering <br/>
+    Associate Professor
   date: "Feb. 2026 - Present"
 
 awards:
