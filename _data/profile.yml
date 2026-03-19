@@ -48,15 +48,15 @@ education:
     Undergraduate
   date: Sep. 2014 - Jun. 2018 
   # 
- experience:
- - name: University of Electronic Science and Technology of China
-   logo: /assets/images/badges/uestc.png
-   position: Postdoctoral
-   date: "Jul. 2023 - Jan. 2026"
- - name: University of Electronic Science and Technology of China
-   logo: /assets/images/badges/uestc.png
-   position: Associate Professor
-   date: "Feb. 2026 - Present"
+experience:
+- name: University of Electronic Science and Technology of China
+  logo: /assets/images/badges/uestc.png
+  position: Postdoctoral
+  date: "Jul. 2023 - Jan. 2026"
+- name: University of Electronic Science and Technology of China
+  logo: /assets/images/badges/uestc.png
+  position: Associate Professor
+  date: "Feb. 2026 - Present"
 
 awards:
 - name: "TODO_award_1"
