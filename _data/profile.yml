@@ -20,16 +20,15 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    I am an Associate Professor at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (as of February 2026)</a>.
-    My research interests include radar signal processing, distributed radar sensing, non-line-of-sight (NLOS) target detection and imaging,
-    through-wall sensing, and sparse optimization methods for radar applications.
-  </p>
-  <p>
-    My recent work focuses on NLOS target localization and imaging,  low-intercept and distributed radar systems,
-    and joint sensing methodologies under complex multipath and cluttered environments.
-  </p>
 
+  </p>
+I am an Associate Professor  at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>  (as of February 2026). 
+My research interests include radar signal processing, distributed radar sensing, non-line-of-sight (NLOS) target detection and imaging, through-wall sensing, and sparse optimization methods for radar applications.
+  </p>
+My recent work focuses on NLOS target localization and imaging, low-intercept and distributed radar systems, and joint sensing methodologies in complex multipath and cluttered environments. 
+I have authored or co-authored more than 70 papers published in leading journals and conferences, including IEEE TGRS, IEEE TAES, IEEE TVT, IEEE Radar Conference, IGARSS, and ICASSP. 
+I have also filed and been granted more than 20 patents.
+  </p>
 portrait_url: /assets/images/photos/myphoto.jpg
 # portrait_caption: >-
 #   Your photo caption here.
