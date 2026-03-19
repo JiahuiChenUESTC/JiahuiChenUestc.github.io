@@ -63,7 +63,23 @@ experience:
   date: "Feb. 2026 - Present"
 
 awards:
-- name: "TODO_award_1"
-  date: "TODO_year"
-- name: "TODO_award_2"
-  date: "TODO_year"
+  - name: Outstanding Graduate, University of Electronic Science and Technology of China
+    date: Dec. 2022
+
+  - name: National Scholarship (Ranked 1st)
+    date: Dec. 2022
+
+  - name: National Postdoctoral Innovative Talent Support Program
+    date: Oct. 2023
+
+  - name: Outstanding Postdoctoral Fellow, University of Electronic Science and Technology of China
+    date: Dec. 2023
+
+  - name: Future Star of Radar, Journal of Radars
+    date: May 2025
+
+  - name: First Prize, Science and Technology Progress Award, Chinese Institute of Command and Control (2nd contributor)
+    date: Sep. 2025
+
+  - name: First-Class Postdoctoral Performance Support
+    date: Nov. 2025
