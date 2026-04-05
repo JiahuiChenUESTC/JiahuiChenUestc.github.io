@@ -22,15 +22,15 @@ links:
   Scholar: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Joint+Localization+of+LOS+and+NLOS+Targets+With+Clutter+Mitigation+via+Multipath+Exploitation+Radar&btnG=
   bibtex:
     @ARTICLE{10919007,
-    author={Chen, Jiahui and Yang, Xiaobo and Qiu, Chen and Zhu, Zhihao and Wu, Peilun and Xu, Zihan and Guo, Shisheng and Cui, Guolong},
-    journal={IEEE Transactions on Radar Systems}, 
-    title={Joint Localization of LOS and NLOS Targets With Clutter Mitigation via Multipath Exploitation Radar}, 
-    year={2025},
-    volume={3},
-    number={},
-    pages={549-561},
-    keywords={Clutter;Location awareness;Reflection;Nonlinear optics;Prevention and mitigation;Diffraction;Radar clutter;Surveillance;Line-of-sight propagation;Object detection;Line-of-sight (LOS);multipath exploitation;non-LOS (NLOS);target localization},
-    doi={10.1109/TRS.2025.3550023}}
+      author={Chen, Jiahui and Yang, Xiaobo and Qiu, Chen and Zhu, Zhihao and Wu, Peilun and Xu, Zihan and Guo, Shisheng and Cui, Guolong},
+      journal={IEEE Transactions on Radar Systems}, 
+      title={Joint Localization of LOS and NLOS Targets With Clutter Mitigation via Multipath Exploitation Radar}, 
+      year={2025},
+      volume={3},
+      number={},
+      pages={549-561},
+      keywords={Clutter;Location awareness;Reflection;Nonlinear optics;Prevention and mitigation;Diffraction;Radar clutter;Surveillance;Line-of-sight propagation;Object detection;Line-of-sight (LOS);multipath exploitation;non-LOS (NLOS);target localization},
+      doi={10.1109/TRS.2025.3550023}}
 
     
 ---
